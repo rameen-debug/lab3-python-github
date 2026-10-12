@@ -75,5 +75,5 @@ while True:
             print(num1,"is",percentage,"%","of",num2,".")
     # Blank line to separate this calculation from the next menu
     print()
-
+    # End of program
     
