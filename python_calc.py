@@ -3,7 +3,8 @@
 
 # "while True" is an infinite loop that repeats the menu forever
 # "break" used below is what ends it
-print(" WELCOME TO CALCULATOR")
+print("WELCOME TO CALCULATOR")
+print()
 while True:
     # Show the menu of operations
     print("The operations are as follows: ")
