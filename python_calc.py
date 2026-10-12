@@ -24,7 +24,7 @@ while True:
     # Option 7: says goodbye and exits the loop (program ends)
     if operation==7:
         print("Goodbye!")
-        break
+        break #This is the break statement.
     # Anything outside 1 and 7 is invalid
     elif operation<1 or operation> 7:
         print("Invalid Choice. Please enter number from 1-7.")
