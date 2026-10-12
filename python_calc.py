@@ -5,7 +5,9 @@
 # "break" used below is what ends it
 print("WELCOME TO CALCULATOR")
 print()
+
 while True:
+
     # Show the menu of operations
     print("The operations are as follows: ")
     print("1. Addition")
@@ -19,7 +21,7 @@ while True:
 
     #Ask which operation user wants to perform
     operation=int(input("Enter a number to perform the operation: "))
-    print()
+    print() #adds an empty line
 
     # Option 7: says goodbye and exits the loop (program ends)
     if operation==7:
